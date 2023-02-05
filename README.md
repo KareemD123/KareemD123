@@ -5,7 +5,7 @@
 ### <div align="center">Hi 👋, I'm Kareem</div>
 ### <div align="center">Kareem Draz | Full Stack Software Engineer | Educator | Learner</div>  
   
-# 🎓 About Me: 
+## 🎓 About Me: 
 
 - 📚 I’m currently learning **Java & Angular**
   
@@ -28,7 +28,7 @@ Phone: +1 (587) 974-8805
 <br/>  
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
 
@@ -82,7 +82,6 @@ Phone: +1 (587) 974-8805
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 </div>
 
 </td></tr></table>  
@@ -90,7 +89,7 @@ Phone: +1 (587) 974-8805
 <br/>  
 
 
-# 🌐 Find me on LinkedIn 
+## 🌐 Find me on LinkedIn 
 <div align="left">
 <a href="https://linkedin.com/in/kareem-draz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; height: 50px; width: auto;" />
@@ -101,7 +100,7 @@ Phone: +1 (587) 974-8805
 <br/>  
 
 
-# 📊 My GitHub Languages:
+## 📊 My GitHub Languages:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemD123&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
