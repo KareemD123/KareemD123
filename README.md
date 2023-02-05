@@ -2,7 +2,7 @@
 <img src="https://i0.wp.com/www.icegif.com/wp-content/uploads/icegif-87.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">Hi 👋, I'm Kareem</div>
+### <div align="center">Hi 👋</div>
 ### <div align="center">Kareem Draz | Full Stack Software Engineer | Educator | Learner</div>  
   
 ## 🎓 About Me: 
