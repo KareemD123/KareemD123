@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I have lived on **3** different continents! 
 
 
-- 📑 My Experience: [Resume](https://drive.google.com/file/d/12qVt26X8y1Rwt16yzA7smr63jcwZc0eA/view?usp=sharing)
+- 📑 My Experience: [Resume](https://drive.google.com/file/d/1eqJ2raPjqLJG1dJQW_VXw-CW_cyWhBrq/view?usp=sharing)
 
 
 - 📞 Contact Me: 
