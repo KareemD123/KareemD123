@@ -23,7 +23,6 @@
 ```
 Email: draz@ualberta.ca
 Phone: +1 (587) 974-8805
-https://generalassembly.zoom.us/j/91376806323?pwd=bjlMcHZXK1JreG1wd1JNcHV6eklyZz09
 ```
 
 <br/>  
