@@ -21,7 +21,7 @@
 
 - 📞 Contact Me: 
 ```
-Email: draz@ualberta.ca
+Email: kareemdraz10@gmail.com
 Phone: +1 (587) 974-8805
 ```
 
