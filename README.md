@@ -22,7 +22,6 @@
 - 📞 Contact Me: 
 ```
 Email: kareemdraz.careers@gmail.com
-Phone: +1 (587) 974-8805
 ```
 
 <br/>  
